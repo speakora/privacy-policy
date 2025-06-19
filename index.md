@@ -58,3 +58,4 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 ---
 
 By using the App, you consent to this Privacy Policy.
+ # Adds a blank line
